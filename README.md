@@ -9,7 +9,7 @@
  
  ## Step 3
  <img src="working/step3-1.png" alt="step3_1">
- <img src="working/step32.png" alt="step3_2">
+ <img src="working/step-32.png" alt="step3_2">
  
  ## Step 4
  <img src="working/step4.png" alt="step4">
